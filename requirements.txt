@@ -235,7 +235,7 @@ libllvm9=9.0.0=hc9558a2_2
 libopenblas=0.3.7=h6e990d7_2
 libpng=1.6.37=hbc83047_0
 libpq=11.5=hd9ab2ff_1
-libprotobuf=3.8.0=h8b12597_0
+libprotobuf=3.8.0
 librsvg=2.46.2=h33a7fed_1
 libsodium=1.0.16=h1bed415_0
 libssh2=1.8.2=h1ba5d50_0
